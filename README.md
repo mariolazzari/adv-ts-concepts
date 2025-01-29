@@ -1,1 +1,1 @@
-# adv-ts-concepts
+# Advanced TypeScript concepts
